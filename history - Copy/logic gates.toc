@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}logic gates}{3}{}%
+\contentsline {section}{\numberline {2}\textbf \underline {TYPES OF LOGIC GATES}}{3}{}%
+\contentsline {section}{\numberline {3}AND GATE}{4}{}%
+\contentsline {section}{\numberline {4}OR GATE}{4}{}%
+\contentsline {section}{\numberline {5}NOT GATE}{4}{}%
+\contentsline {section}{\numberline {6}NOR}{6}{}%
+\contentsline {section}{\numberline {7}NAND}{8}{}%
+\contentsline {section}{\numberline {8}SUMMARY}{11}{}%
+\contentsline {section}{\numberline {9}QUIZ}{13}{}%

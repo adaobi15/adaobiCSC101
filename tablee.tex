@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{booktabs}
+\usepackage{pgfplotstable}
+\begin{document}
+	\pagenumbering{gobble}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{tables}
+			\pgfplotstabletypeset[
+			col sep=comma, 
+			display colums/0/ .style={
+				column name=$column 1$, 
+				column type=|c|, string type}, 
+			display colums /1/.style={
+				column name=$column 2$,
+				column type=|c|,string type},
+			every head row/.style={
+				before row={\toprule},
+				after row={\midrule}
+			},
+			every last row/.style={after row=\bottomrule}
+			]{tables.csv}
+		\end{center}
+	\end{table}
+\end{document}

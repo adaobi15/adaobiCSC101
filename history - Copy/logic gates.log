@@ -1,0 +1,455 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.15)  21 NOV 2021 01:27
+entering extended mode
+**"./logic gates.tex"
+(logic gates.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) (C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count185
+\c@continuedfloat=\count186
+)
+\c@subfigure=\count187
+\c@subtable=\count188
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box47
+\extrarowheight=\dimen149
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box48
+)
+\everycr=\toks17
+\minrowclearance=\skip51
+)
+\rownum=\count189
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box49
+) (logic gates.aux)
+\openout1 = `"logic gates.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen150
+\scratchbox=\box50
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen151
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\adaobi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+ (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+
+[1
+
+{C:/Users/adaobi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(logic gates.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `"logic gates.toc"'.
+
+ [2]
+<t.png, id=13, 225.84375pt x 225.84375pt>
+File: t.png Graphic file (type png)
+<use t.png>
+Package pdftex.def Info: t.png  used on input line 16.
+(pdftex.def)             Requested size: 69.00113pt x 34.50227pt.
+<Smartphone 1.jpg, id=14, 151.56625pt x 335.2525pt>
+File: Smartphone 1.jpg Graphic file (type jpg)
+<use Smartphone 1.jpg>
+Package pdftex.def Info: Smartphone 1.jpg  used on input line 30.
+(pdftex.def)             Requested size: 68.99895pt x 152.62196pt.
+<Picture 5.jpg, id=15, 178.86826pt x 220.095pt>
+File: Picture 5.jpg Graphic file (type jpg)
+<use Picture 5.jpg>
+Package pdftex.def Info: Picture 5.jpg  used on input line 33.
+(pdftex.def)             Requested size: 68.99895pt x 84.8997pt.
+<sm.jpg, id=16, 225.84375pt x 225.84375pt>
+File: sm.jpg Graphic file (type jpg)
+<use sm.jpg>
+Package pdftex.def Info: sm.jpg  used on input line 37.
+(pdftex.def)             Requested size: 68.99895pt x 69.00113pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 43.
+<l.png, id=17, 593.2612pt x 80.9424pt>
+File: l.png Graphic file (type png)
+<use l.png>
+Package pdftex.def Info: l.png  used on input line 54.
+(pdftex.def)             Requested size: 345.0pt x 47.07013pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./t.png> <./Smartphone 1.jpg> <./Picture 5.jpg> <./sm.jpg>]
+<Picture 16.png, id=24, 182.18062pt x 52.69687pt>
+File: Picture 16.png Graphic file (type png)
+<use Picture 16.png>
+Package pdftex.def Info: Picture 16.png  used on input line 68.
+(pdftex.def)             Requested size: 345.0pt x 99.80585pt.
+<pi.jpg, id=25, 629.24742pt x 403.71518pt>
+File: pi.jpg Graphic file (type jpg)
+<use pi.jpg>
+Package pdftex.def Info: pi.jpg  used on input line 87.
+(pdftex.def)             Requested size: 345.0pt x 221.35408pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<or.png, id=26, 376.40625pt x 134.5025pt>
+File: or.png Graphic file (type png)
+<use or.png>
+Package pdftex.def Info: or.png  used on input line 96.
+(pdftex.def)             Requested size: 345.0pt x 123.28816pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<IK.jpg, id=27, 611.23271pt x 418.13358pt>
+File: IK.jpg Graphic file (type jpg)
+<use IK.jpg>
+Package pdftex.def Info: IK.jpg  used on input line 114.
+(pdftex.def)             Requested size: 345.0pt x 236.00984pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./l.png> <./Picture 16.png>]
+<noor.png, id=33, 693.792pt x 408.5664pt>
+File: noor.png Graphic file (type png)
+<use noor.png>
+Package pdftex.def Info: noor.png  used on input line 132.
+(pdftex.def)             Requested size: 345.0pt x 203.16676pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<not.png, id=34, 301.125pt x 168.63pt>
+File: not.png Graphic file (type png)
+<use not.png>
+Package pdftex.def Info: not.png  used on input line 150.
+(pdftex.def)             Requested size: 345.0pt x 193.21796pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<nnot.jpg, id=35, 615.58554pt x 383.86032pt>
+File: nnot.jpg Graphic file (type jpg)
+<use nnot.jpg>
+Package pdftex.def Info: nnot.jpg  used on input line 153.
+(pdftex.def)             Requested size: 345.0pt x 215.13602pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./pi.jpg> <./or.png>] [6 <./IK.jpg> <./noor.png>]
+<nnor.jpg, id=46, 670.6231pt x 385.219pt>
+File: nnor.jpg Graphic file (type jpg)
+<use nnor.jpg>
+Package pdftex.def Info: nnor.jpg  used on input line 169.
+(pdftex.def)             Requested size: 68.99895pt x 39.62921pt.
+<o.png, id=47, 66.0066pt x 35.6532pt>
+File: o.png Graphic file (type png)
+<use o.png>
+Package pdftex.def Info: o.png  used on input line 171.
+(pdftex.def)             Requested size: 68.99895pt x 37.27264pt.
+<nnnno.jpg, id=48, 154.55762pt x 69.40782pt>
+File: nnnno.jpg Graphic file (type jpg)
+<use nnnno.jpg>
+Package pdftex.def Info: nnnno.jpg  used on input line 174.
+(pdftex.def)             Requested size: 68.99895pt x 30.9854pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<nor.jpg, id=49, 280.04625pt x 181.67876pt>
+File: nor.jpg Graphic file (type jpg)
+<use nor.jpg>
+Package pdftex.def Info: nor.jpg  used on input line 179.
+(pdftex.def)             Requested size: 345.0pt x 223.82668pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: nnor.jpg Graphic file (type jpg)
+<use nnor.jpg>
+Package pdftex.def Info: nnor.jpg  used on input line 198.
+(pdftex.def)             Requested size: 345.0pt x 198.18132pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./not.png> <./nnot.jpg>]
+<nnna.jpg, id=55, 246.14732pt x 58.67465pt>
+File: nnna.jpg Graphic file (type jpg)
+<use nnna.jpg>
+Package pdftex.def Info: nnna.jpg  used on input line 212.
+(pdftex.def)             Requested size: 68.99895pt x 16.44757pt.
+File: o.png Graphic file (type png)
+<use o.png>
+Package pdftex.def Info: o.png  used on input line 214.
+(pdftex.def)             Requested size: 27.60063pt x 14.9084pt.
+<nnnn.jpg, id=56, 182.18062pt x 52.69687pt>
+File: nnnn.jpg Graphic file (type jpg)
+<use nnnn.jpg>
+Package pdftex.def Info: nnnn.jpg  used on input line 217.
+(pdftex.def)             Requested size: 68.99895pt x 19.95827pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<nand.jpg, id=57, 282.05376pt x 179.67125pt>
+File: nand.jpg Graphic file (type jpg)
+<use nand.jpg>
+Package pdftex.def Info: nand.jpg  used on input line 222.
+(pdftex.def)             Requested size: 345.0pt x 219.78528pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<nnad.jpg, id=58, 598.06044pt x 393.81914pt>
+File: nnad.jpg Graphic file (type jpg)
+<use nnad.jpg>
+Package pdftex.def Info: nnad.jpg  used on input line 241.
+(pdftex.def)             Requested size: 345.0pt x 227.18938pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8 <./nnor.jpg> <./o.png> <./nnnno.jpg> <./nor.jpg>]
+<xxt.jpg, id=63, 251.22429pt x 104.39pt>
+File: xxt.jpg Graphic file (type jpg)
+<use xxt.jpg>
+Package pdftex.def Info: xxt.jpg  used on input line 253.
+(pdftex.def)             Requested size: 68.99895pt x 28.66989pt.
+File: o.png Graphic file (type png)
+<use o.png>
+Package pdftex.def Info: o.png  used on input line 255.
+(pdftex.def)             Requested size: 68.99895pt x 37.27264pt.
+<vb.jpg, id=64, 210.24pt x 73.93138pt>
+File: vb.jpg Graphic file (type jpg)
+<use vb.jpg>
+Package pdftex.def Info: vb.jpg  used on input line 258.
+(pdftex.def)             Requested size: 68.99895pt x 24.26317pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<XOR.png, id=65, 271.0125pt x 130.4875pt>
+File: XOR.png Graphic file (type png)
+<use XOR.png>
+Package pdftex.def Info: XOR.png  used on input line 281.
+(pdftex.def)             Requested size: 345.0pt x 166.11746pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9 <./nnna.jpg> <./nnnn.jpg> <./nand.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<op.jpg, id=69, 308.3997pt x 67.26118pt>
+File: op.jpg Graphic file (type jpg)
+<use op.jpg>
+Package pdftex.def Info: op.jpg  used on input line 313.
+(pdftex.def)             Requested size: 103.50105pt x 22.5729pt.
+File: o.png Graphic file (type png)
+<use o.png>
+Package pdftex.def Info: o.png  used on input line 315.
+(pdftex.def)             Requested size: 34.5021pt x 18.63658pt.
+<ty.jpg, id=70, 218.95663pt x 60.10574pt>
+File: ty.jpg Graphic file (type jpg)
+<use ty.jpg>
+Package pdftex.def Info: ty.jpg  used on input line 318.
+(pdftex.def)             Requested size: 103.50105pt x 28.41203pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<XNOR.png, id=71, 271.0125pt x 130.4875pt>
+File: XNOR.png Graphic file (type png)
+<use XNOR.png>
+Package pdftex.def Info: XNOR.png  used on input line 323.
+(pdftex.def)             Requested size: 345.0pt x 166.11746pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<KKK.jpg, id=72, 422.38885pt x 410.4936pt>
+File: KKK.jpg Graphic file (type jpg)
+<use KKK.jpg>
+Package pdftex.def Info: KKK.jpg  used on input line 327.
+(pdftex.def)             Requested size: 345.0pt x 335.29156pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./nnad.jpg> <./xxt.jpg> <./vb.jpg>]
+Overfull \vbox (15.78294pt too high) has occurred while \output is active []
+
+
+[11 <./XOR.png> <./op.jpg> <./ty.jpg> <./XNOR.png>] [12 <./KKK.jpg>]
+<ll.png, id=84, 246.9225pt x 163.3603pt>
+File: ll.png Graphic file (type png)
+<use ll.png>
+Package pdftex.def Info: ll.png  used on input line 353.
+(pdftex.def)             Requested size: 345.0pt x 228.25916pt.
+<24.jpg, id=85, 693.3102pt x 482.7636pt>
+File: 24.jpg Graphic file (type jpg)
+<use 24.jpg>
+Package pdftex.def Info: 24.jpg  used on input line 359.
+(pdftex.def)             Requested size: 345.0pt x 240.23204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./ll.png>] [14 <./24.jpg>] (logic gates.aux) ) 
+Here is how much of TeX's memory you used:
+ 3318 strings out of 479689
+ 53021 string characters out of 2866501
+ 342078 words of memory out of 3000000
+ 20416 multiletter control sequences out of 15000+600000
+ 408627 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,11n,74p,334b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\adaobi\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/adaobi/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/a
+daobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+C:/Users/adaobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/adaobi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr10.pfb><C:/Users/adaobi/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb><C:/Users/adaobi/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/adaobi/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on "logic gates.pdf" (14 pages, 520988 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+
